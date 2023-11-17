@@ -1,4 +1,3 @@
-b917. 11059 Maximum Product
 #include <iostream>
 using namespace std;
 
